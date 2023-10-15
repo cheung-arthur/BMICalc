@@ -15,7 +15,7 @@ We all know that keeping track of your health and fitness is important, but let'
 - **Measurement switching**: Freely switch between using metric and US standard calculations! I want this app to be accesible internationally!
 
 ## Demo
-
+![BMI Calculator App GIF](https://github.com/cheung-arthur/BMICalc/blob/master/BMI_Demo.gif)
 
 ## How to Use 🤓
 
